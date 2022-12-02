@@ -3,9 +3,9 @@ entries:
   vault:
   - apiVersion: v2
     appVersion: 1.12.1
-    created: "2022-12-02T00:24:35.167288-08:00"
+    created: "2022-12-02T11:41:49.822544-08:00"
     description: Official HashiCorp Vault Chart
-    digest: 8dfdfde9f70dcfed7c3757f0045453acbf28dc9734d10ccc5adba662b240e4e1
+    digest: 8fd3f4a46ed8c3bbbd6efc1b25cbd808c43972cc178d66dc9dce53c3adefa9b6
     home: https://www.vaultproject.io
     icon: https://github.com/hashicorp/vault/raw/f22d202cde2018f9455dec755118a9b84586e082/Vault_PrimaryLogo_Black.png
     keywords:
@@ -26,4 +26,4 @@ entries:
     urls:
     - https://uberdemo.github.io/helm-vault/vault-1.23.0.tgz
     version: 1.23.0
-generated: "2022-12-02T00:24:35.164419-08:00"
+generated: "2022-12-02T11:41:49.813301-08:00"
